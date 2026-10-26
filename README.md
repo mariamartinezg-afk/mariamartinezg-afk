@@ -1,110 +1,145 @@
 <div align="center">
 
-# 🌸 ¡Hola, mundo! Soy María 👋
+# 𝑴𝑨𝑹𝑰𝑨
 
-### 💜 Developer en construcción...
+### THE DEVELOPER ISSUE
 
-💻 Estudiante de 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)
+**FASHION · CODE · CREATIVITY**
 
-🐍 Futura desarrolladora especializada en Python
-
-✨ Transformando ideas, café y errores en código.
+*Edición Nº 01 — 2026*
 
 ---
 
-### 🦋 Un poquito sobre mí
+### ✦ THE COVER STORY ✦
+
+# Meet María
+
+**Una futura desarrolladora con grandes ideas y mucho código por escribir.**
+
+💻 2.º Desarrollo de Aplicaciones Multiplataforma
+
+🐍 Future Python Developer
+
+*«El futuro también se programa»*
+
+---
 
 </div>
 
-¡Hola! Soy **María**, estudiante de segundo curso de DAM.
+# 01. THE EDITOR'S NOTE
+### ✦ Behind the Code
 
-Me apasiona descubrir cómo funciona la tecnología y aprender a crear soluciones a través de la programación.
+¡Hola! Soy **María**, estudiante de segundo curso de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-Aunque actualmente estoy explorando diferentes lenguajes y tecnologías, tengo un objetivo claro: **especializarme en Python** y seguir desarrollando mis habilidades con este lenguaje.
+Me interesa el mundo de la tecnología, descubrir nuevos lenguajes y aprender a transformar ideas en proyectos reales.
 
-Me considero una persona con ganas de aprender, superar nuevos retos y seguir creciendo en el mundo del desarrollo de software.
+Actualmente estoy explorando distintas áreas del desarrollo de software, aunque tengo una meta muy clara: **especializarme en Python**.
 
----
-
-## 🌷 Mi mundo tecnológico
-
-### 💻 Lenguajes de programación
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🎨 Desarrollo web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-### 🗄️ Bases de datos
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠️ Herramientas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+Y cuando no estoy entre líneas de código, también me gusta desconectar leyendo revistas de moda como *Vogue* y *Harper's Bazaar*. 🌷
 
 ---
 
-## 🐍 Mi próximo gran objetivo: Python
+# 02. THE TECH EDIT
+### ✦ My Digital Wardrobe
+
+*Una selección de las tecnologías que forman parte de mi aprendizaje.*
+
+#### THE PROGRAMMING COLLECTION
+
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+#### THE WEB COLLECTION
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+#### THE DATABASE COLLECTION
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### THE ESSENTIAL ACCESSORIES
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+
+---
+
+# 03. THE NEXT BIG THING
+### ✦ Python Is the New Black 🐍
 
 <div align="center">
 
-### 💙 `print("Mi futuro empieza con Python")`
+### `print("My future is written in Python")`
+
+**MY NEXT CHAPTER: PYTHON DEVELOPMENT**
 
 </div>
 
-De todos los lenguajes de programación que estoy descubriendo, **Python es el que más me interesa para mi futuro profesional**.
+Python es el lenguaje en el que quiero especializarme profesionalmente.
 
-Mi objetivo es profundizar en sus posibilidades, aprender a utilizarlo de manera avanzada y llegar a especializarme en su desarrollo.
+Mi objetivo es seguir aprendiendo, profundizar en sus posibilidades y desarrollar proyectos que me permitan crecer como programadora.
 
-Sé que todavía me queda mucho por aprender, ¡pero cada línea de código me acerca un poquito más a esa meta!
-
----
-
-## 🎮 Mi aventura como desarrolladora
-
-🌱 **Nivel actual:** Estudiante de 2.º DAM.
-
-🎯 **Misión principal:** Convertirme en desarrolladora de software.
-
-🐍 **Especialización futura:** Python.
-
-🧩 **Retos actuales:** Seguir mejorando mis conocimientos y desarrollar nuevos proyectos.
-
-🐛 **Enemigos habituales:** Bugs que aparecen cuando todo parecía funcionar.
-
-⚡ **Superpoder en desarrollo:** Resolver problemas sin rendirme.
-
-🏆 **Próximo logro:** Dar mis primeros pasos en el mundo profesional de la programación.
+*Still learning. Always evolving.*
 
 ---
 
-## 💜 Mi filosofía
+# 04. THE CAREER DIARY
+### ✦ Currently Trending
 
-> "No se trata de saberlo todo, sino de tener siempre ganas de seguir aprendiendo."
-
-Creo que la programación es un camino de aprendizaje constante, donde cada error enseña algo nuevo y cada proyecto supone una oportunidad para mejorar.
+| THE EDIT | MY STORY |
+|:---|:---|
+| 🎓 Education | 2.º DAM |
+| 💻 Current focus | Desarrollo de software |
+| 🐍 Future specialty | Python |
+| 🌱 Learning | Nuevas tecnologías |
+| 🎯 Next milestone | Primera experiencia profesional |
+| ✨ Inspiration | Tecnología y creatividad |
 
 ---
+
+# 05. THE PERSONAL EDIT
+### ✦ Beyond the Screen
+
+**A LITTLE MORE ABOUT MARÍA**
+
+📖 *On my reading list:* Vogue & Harper's Bazaar.
+
+💻 *On my screen:* Código, proyectos y nuevos retos.
+
+🐍 *On my wishlist:* Dominar Python.
+
+✨ *On my mind:* Seguir aprendiendo y evolucionando.
+
+---
+
+# 06. WORDS TO LIVE BY
+### ✦ The María Philosophy
 
 <div align="center">
 
-### 🌸 Gracias por visitar mi perfil
+### ❝ No dejes para mañana lo que puedes hacer hoy. ❞
 
-**Todavía estoy escribiendo las primeras líneas de mi historia como desarrolladora.**
+*THE PERSONAL MOTTO*
 
-🐍 Y Python tendrá un papel muy importante en los próximos capítulos.
+---
 
-✨ ¡Nos vemos entre líneas de código! ✨
+# THE END... FOR NOW
+
+### 𝑴𝑨𝑹𝑰𝑨
+
+**THE DEVELOPER ISSUE**
+
+*Every great developer has a story.*
+
+**This is just the beginning.**
+
+♡ Thanks for reading ♡
 
 </div>
