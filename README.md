@@ -108,13 +108,15 @@ Cada nuevo aprendizaje es un paso más hacia mi especialización.
 
 </div>
 
-🌸 **Mi inspiración:** Aprender y descubrir nuevas posibilidades.
 
-🌿 **Mi objetivo:** Seguir creciendo como desarrolladora.
-
-📖 **Mi pequeño interés fuera del código:** Las revistas *Vogue* y *Harper's Bazaar*.
-
-🐍 **Mi próximo gran reto:** Especializarme en Python.
+| THE EDIT | MY STORY |
+|:---|:---|
+| 🎓 Educación | 2.º DAM |
+| 💻 Concentrada actualmente | Desarrollo de software |
+| 🐍 Futura especialidad | Python |
+| 🌱 Aprendiendo | Nuevas tecnologías |
+| 🎯 Próximo objetivo | Primera experiencia profesional |
+| ✨ Inspiración | Tecnología y creatividad |
 
 ---
 
