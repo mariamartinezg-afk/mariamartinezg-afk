@@ -109,7 +109,7 @@ Cada nuevo aprendizaje es un paso más hacia mi especialización.
 </div>
 
 
-| THE EDIT | MY STORY |
+| MI EDICIÓN | MI HISTORIA |
 |:---|:---|
 | 🎓 Educación | 2.º DAM |
 | 💻 Concentrada actualmente | Desarrollo de software |
