@@ -2,11 +2,13 @@
 
 # 🌸 ¡Hola, mundo! Soy María 👋
 
-### 💜 Developer en construcción... 
+### 💜 Developer en construcción...
 
-💻 Estudiante de 2.º de Desarrollo de Aplicaciones Multiplataforma
+💻 Estudiante de 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-✨ Transformando café, ideas y errores en código.
+🐍 Futura desarrolladora especializada en Python
+
+✨ Transformando ideas, café y errores en código.
 
 ---
 
@@ -14,25 +16,19 @@
 
 </div>
 
-```java
-public class Maria {
-    String nombre = "María";
-    String estudios = "2º DAM";
-    String objetivo = "Convertirme en desarrolladora";
+¡Hola! Soy **María**, estudiante de segundo curso de DAM.
 
-    boolean ganasDeAprender = true;
-    boolean miedoALosErrores = false;
-    int cafeNecesario = 100;
+Me apasiona descubrir cómo funciona la tecnología y aprender a crear soluciones a través de la programación.
 
-    void programar() {
-        System.out.println("¡Otro reto superado! 💜");
-    }
-}
-```
+Aunque actualmente estoy explorando diferentes lenguajes y tecnologías, tengo un objetivo claro: **especializarme en Python** y seguir desarrollando mis habilidades con este lenguaje.
+
+Me considero una persona con ganas de aprender, superar nuevos retos y seguir creciendo en el mundo del desarrollo de software.
+
+---
 
 ## 🌷 Mi mundo tecnológico
 
-### 💻 Programación
+### 💻 Lenguajes de programación
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,7 +45,7 @@ public class Maria {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Mis herramientas
+### 🛠️ Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -59,37 +55,55 @@ public class Maria {
 
 ---
 
-## 🎮 Mi aventura como desarrolladora
-
-🌱 **Nivel actual:** Estudiante de 2.º DAM
-
-🧩 **Misión principal:** Seguir aprendiendo y creando aplicaciones.
-
-🐛 **Enemigos habituales:** Bugs inesperados.
-
-⚡ **Superpoder:** No rendirme hasta encontrar la solución.
-
-🏆 **Logro por desbloquear:** Mi primera experiencia profesional como desarrolladora.
-
----
-
-## 📊 Mis estadísticas
+## 🐍 Mi próximo gran objetivo: Python
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariamartinezg-afk&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamartinezg-afk&layout=compact&theme=dracula)
+### 💙 `print("Mi futuro empieza con Python")`
 
 </div>
 
+De todos los lenguajes de programación que estoy descubriendo, **Python es el que más me interesa para mi futuro profesional**.
+
+Mi objetivo es profundizar en sus posibilidades, aprender a utilizarlo de manera avanzada y llegar a especializarme en su desarrollo.
+
+Sé que todavía me queda mucho por aprender, ¡pero cada línea de código me acerca un poquito más a esa meta!
+
+---
+
+## 🎮 Mi aventura como desarrolladora
+
+🌱 **Nivel actual:** Estudiante de 2.º DAM.
+
+🎯 **Misión principal:** Convertirme en desarrolladora de software.
+
+🐍 **Especialización futura:** Python.
+
+🧩 **Retos actuales:** Seguir mejorando mis conocimientos y desarrollar nuevos proyectos.
+
+🐛 **Enemigos habituales:** Bugs que aparecen cuando todo parecía funcionar.
+
+⚡ **Superpoder en desarrollo:** Resolver problemas sin rendirme.
+
+🏆 **Próximo logro:** Dar mis primeros pasos en el mundo profesional de la programación.
+
+---
+
+## 💜 Mi filosofía
+
+> "No se trata de saberlo todo, sino de tener siempre ganas de seguir aprendiendo."
+
+Creo que la programación es un camino de aprendizaje constante, donde cada error enseña algo nuevo y cada proyecto supone una oportunidad para mejorar.
+
 ---
 
 <div align="center">
 
-### 💜 Gracias por visitar mi perfil
+### 🌸 Gracias por visitar mi perfil
 
-*"Cada error es una oportunidad para aprender algo nuevo."*
+**Todavía estoy escribiendo las primeras líneas de mi historia como desarrolladora.**
+
+🐍 Y Python tendrá un papel muy importante en los próximos capítulos.
 
 ✨ ¡Nos vemos entre líneas de código! ✨
 
