@@ -87,21 +87,6 @@ Cada nuevo aprendizaje es un paso más hacia mi especialización.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8D8C0,100:E8B7C8&height=3" width="65%"/>
 
-</div>
-
-| 🌷 | Mi trayectoria |
-|:---:|:---|
-| 🎓 | Estudiante de 2.º DAM |
-| 💻 | Desarrollo de aplicaciones |
-| 🐍 | Futura especialización en Python |
-| 🌱 | Aprendizaje continuo |
-| 🎯 | Primera experiencia profesional |
-| ✨ | Creatividad y tecnología |
-
----
-
-<div align="center">
-
 ## ✦ UN POCO MÁS SOBRE MÍ ✦
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8B7C8,100:B8D8C0&height=3" width="65%"/>
